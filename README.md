@@ -20,7 +20,7 @@ It combines:
 
 ## Architecture
 
-![Agentic RAG Architecture](architecture.png)
+
 <img width="1587" height="1072" alt="architecture" src="https://github.com/user-attachments/assets/e0448c61-ab88-4b1a-b07a-de39852560b3" />
 
 
